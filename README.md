@@ -25,7 +25,7 @@ DatabaseConnection db1 = DatabaseConnection.getInstance();
 DatabaseConnection db2 = DatabaseConnection.getInstance();
 db1.query("SELECT * FROM users");
 db2.query("INSERT INTO users VALUES (1, 'John')");
-
+```
 ### 🔒 Mediator Pattern  
 Facilitates communication between objects without them being directly coupled, promoting a more flexible system.
 **Example Use Case:** Chat room system, where users communicate through a mediator.
@@ -44,18 +44,15 @@ user2.sendMessage("Hi Alice, how are you?");
 ### 🔒 Facade Pattern
 Provides a simplified interface to a complex system, making it easier to use.
 Example Use Case: Home Theater System, where multiple components are controlled through a single interface.
-
+```
 HomeTheaterFacade homeTheater = new HomeTheaterFacade();
 homeTheater.watchMovie("Inception");
 homeTheater.endMovie();
-
+```
 
 How to Run
 1️⃣ Clone the repository:
 
-sh
-Copy
-Edit
 ```
 git clone https://github.com/MenathNDGD/Java-Design-Patterns-Examples.git
 ```
@@ -65,17 +62,19 @@ cd "Singleton Pattern"  # or "Mediator Pattern", "Facade Pattern"
 ```
 
 3️⃣ Compile and run the program:
-
 ``
 javac Main.java  
 java Main
 ``
 
 🤝 Contributing
+
 We welcome contributions! If you'd like to enhance the project or fix bugs, feel free to:
 
 Fork the repository
 Submit a pull request
+
+
 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
