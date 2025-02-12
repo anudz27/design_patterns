@@ -39,6 +39,8 @@ User user2 = new User("Bob", mediator);
 user1.sendMessage("Hello, Bob!");
 user2.sendMessage("Hi Alice, how are you?");
 
+```
+
 ### 🔒 Facade Pattern
 Provides a simplified interface to a complex system, making it easier to use.
 Example Use Case: Home Theater System, where multiple components are controlled through a single interface.
@@ -54,20 +56,20 @@ How to Run
 sh
 Copy
 Edit
+```
 git clone https://github.com/MenathNDGD/Java-Design-Patterns-Examples.git
+```
 2️⃣ Navigate to the desired pattern directory:
-
-sh
-Copy
-Edit
+```
 cd "Singleton Pattern"  # or "Mediator Pattern", "Facade Pattern"
+```
+
 3️⃣ Compile and run the program:
 
-sh
-Copy
-Edit
+``
 javac Main.java  
 java Main
+``
 
 🤝 Contributing
 We welcome contributions! If you'd like to enhance the project or fix bugs, feel free to:
@@ -78,10 +80,6 @@ Submit a pull request
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Happy Coding! 🚀🔥
-
-vbnet
-Copy
-Edit
 
 This version includes **Mediator and Facade** patterns along with **Singleton** in a structured and engaging way. Let me know if you need any modifications! 🚀😊
 
