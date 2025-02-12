@@ -9,7 +9,6 @@ Welcome to the **Java Design Patterns Examples** repository! 🎉 This project s
 - [Code Examples and Insights](#code-examples-and-insights-🧠)  
 - [How to Run](#how-to-run-🏃‍♂️)  
 - [Contributing](#contributing-🤝)  
-- [License](#license-📄)  
 
 ---
 
@@ -73,10 +72,6 @@ We welcome contributions! If you'd like to enhance the project or fix bugs, feel
 
 Fork the repository
 Submit a pull request
-
-
-📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 Happy Coding! 🚀🔥
 
