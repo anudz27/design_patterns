@@ -74,6 +74,3 @@ Fork the repository
 Submit a pull request
 
 Happy Coding! 🚀🔥
-
-This version includes **Mediator and Facade** patterns along with **Singleton** in a structured and engaging way. Let me know if you need any modifications! 🚀😊
-
